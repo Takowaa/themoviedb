@@ -1,0 +1,26 @@
+.header{
+    background-color: #032541 ;
+    margin-bottom: 60px;
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.row{
+    height: 100px;
+}
+.logo{
+    color: #71c8b1 ;
+}
+.link{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+}

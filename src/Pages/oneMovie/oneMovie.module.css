@@ -1,0 +1,36 @@
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.title{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 33px;
+    line-height: 35px;
+    color: #71c8b1;;
+}
+.view{
+    margin: 20px 0 20px 50px;
+    font-size: 22px;
+}
+.overview{
+    margin: 10px 0 20px 50px;
+    font-size: 18px;
+    line-height: 22px;
+    color: gray;
+}
+.date{
+    margin: 10px 0 20px 50px;
+}
+.actors{
+    text-align: center;
+    margin: 50px 0;
+    font-size: 32px;
+}
+.name{
+    text-align: center;
+    margin: 15px 0;
+    font-weight: bold;
+    font-size: 18px;
+}

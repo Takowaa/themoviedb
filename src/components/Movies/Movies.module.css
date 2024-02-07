@@ -1,0 +1,31 @@
+img{
+    width: 100%;
+    object-fit: contain;
+
+}
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.col{
+    text-align: center;
+}
+.title{
+    font-size: 18px;
+    margin: 20px 0;
+
+}
+.date{
+    font-size: 16px;
+    color: gray;
+}
+.text{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.pagin{
+    margin: 100px 0;
+    text-align: center;
+}
